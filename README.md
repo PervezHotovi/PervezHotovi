@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Pervez Abbas</h1>
-<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
+<h3 align="center">A passionate AI ,Deep Learning and MERN Stack developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Rinor**
 
